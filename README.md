@@ -4,15 +4,17 @@ I am a computer science student and I love learning and acquiring new skills.
 What I enjoy most in programming is creating beautiful graphical interfaces.
 If I have the opportunity to create an interface for a command-line program, I usually do it!
 
-### My certificates and qualifications 📃
+### My achievements 💎
 
 For what it's worth, and to consolidate the fruits of my learning in one place to keep myself motivated,
-here is a modest list of my certificates and qualifications.
+here is a modest list of my certificates, qualifications and professional experiences related to the field of IT.
 
 - Google Cybersecurity Professional Certificate (in progress)
 - Google IT Automation with Python Professional Certificate (in progress)
 - Python Mastery Udemy Certificate
 - PySide 6 Udemy Certificate
+- 2 years spent as a computer maintenance technician
+- 1 year spent as a digital inclusion facilitator
 
 ### Languages and Tools 🛠️
 
