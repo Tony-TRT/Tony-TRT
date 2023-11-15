@@ -4,7 +4,7 @@ I am a computer science student and I love learning and acquiring new skills.
 What I enjoy most in programming is creating beautiful graphical interfaces.
 If I have the opportunity to create an interface for a command-line program, I usually do it!
 
-### My certificates and qualifications 👨‍🎓
+### My certificates and qualifications 📃
 
 For what it's worth, and to consolidate the fruits of my learning in one place to keep myself motivated,
 here is a modest list of my certificates and qualifications.
