@@ -23,5 +23,4 @@ here is a modest list of my certificates, qualifications and professional experi
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>
 </div>
