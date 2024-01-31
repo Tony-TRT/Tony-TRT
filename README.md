@@ -9,6 +9,7 @@ If I have the opportunity to create an interface for a command-line program, I u
 For what it's worth, and to consolidate the fruits of my learning in one place to keep myself motivated,
 here is a modest list of my certificates, qualifications and professional experiences related to the field of IT.
 
+- PCPP1™ – Certified Professional Python Programmer Level 1 (in progress)
 - Google Cybersecurity Professional Certificate 4/8 (in progress)
 - Google IT Automation with Python Professional Certificate 4/6 (in progress)
 - Python Mastery Udemy Certificate
