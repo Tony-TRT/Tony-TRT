@@ -11,7 +11,7 @@ here is a modest list of my certificates, qualifications and professional experi
 
 ```diff
 ! PCPP1™ – Certified Professional Python Programmer Level 1 (in progress).   !
-! Google Cybersecurity Professional Certificate 6/8 (in progress).           !
+! Google Cybersecurity Professional Certificate 7/8 (in progress).           !
 + Google IT Automation with Python Professional Certificate.                 +
 + Python Mastery Udemy Certificate.                                          +
 + PySide 6 Udemy Certificate.                                                +
