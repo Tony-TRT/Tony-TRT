@@ -2,7 +2,7 @@
 
 I am a computer science student and I love learning and acquiring new skills.
 What I enjoy most in programming is creating beautiful graphical interfaces.
-If I have the opportunity to create an interface for a command-line program, I usually do it!
+When I have the opportunity to create an interface for a command-line program, I usually do it!
 
 ### My achievements 💎
 
