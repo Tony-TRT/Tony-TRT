@@ -10,13 +10,13 @@ For what it's worth, and to consolidate the fruits of my learning in one place t
 here is a modest list of my certificates, qualifications and professional experiences related to the field of IT.
 
 ```diff
-! PCPP1™ – Certified Professional Python Programmer Level 1 (in progress - 1/5).  !
-+ Google Cybersecurity Professional Certificate.                                  +
-+ Google IT Automation with Python Professional Certificate.                      +
-+ Python Mastery Udemy Certificate.                                               +
-+ PySide 6 Udemy Certificate.                                                     +
-+ 2 years spent as a computer maintenance technician.                             +
-+ 1 year spent as a digital inclusion facilitator.                                +
+! PCPP1™ – Certified Professional Python Programmer Level 1 (in progress - 1/5)  !
++ Google Cybersecurity Professional Certificate                                  +
++ Google IT Automation with Python Professional Certificate                      +
++ Python Mastery Udemy Certificate                                               +
++ PySide 6 Udemy Certificate                                                     +
++ 2 years spent as a computer maintenance technician                             +
++ 1 year spent as a digital inclusion facilitator                                +
 ```
 
 ### Languages and Tools 🛠️
